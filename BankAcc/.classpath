@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="E:/workspace/libSpring/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/libSpring/commons-dbcp-1.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/libSpring/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/libSpring/commons-pool-1.6.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/libSpring/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/libSpring/hibernate-commons-annotations-4.0.5.Final.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/libSpring/hibernate-core-4.3.7.Final.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/libSpring/hibernate-entitymanager-4.3.7.Final.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/libSpring/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/libSpring/javassist-3.19.0-GA.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/libSpring/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/libSpring/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/libSpring/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/libSpring/mysql-connector-java-5.1.6.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/libSpring/spring-aop-4.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/libSpring/spring-beans-4.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/libSpring/spring-context-4.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/libSpring/spring-core-4.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/libSpring/spring-expression-4.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/libSpring/spring-jdbc-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/libSpring/spring-orm-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/libSpring/spring-tx-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
