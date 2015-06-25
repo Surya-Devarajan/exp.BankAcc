@@ -12,5 +12,11 @@ import exp.java.bank.model.Person;
  *
  */
 public interface PersonDAO {
-	public List<Person> list();
+	public List<Person> accountList();
+
+	public Person myAccountDetails(int i);
+
+	
+
+	
 }

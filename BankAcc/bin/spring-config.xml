@@ -36,7 +36,13 @@
 	<bean id="accountDAO" class="exp.java.bank.dao.AccountDAOImpl">
 		<property name="sessionFactory" ref="hibernate4AnnotatedSessionFactory" />
 	</bean>
-	<bean id="personDAO" class="exp.java.bank.dao.PersonDAOImp">
+	<bean id="personDAO" class="exp.java.bank.dao.PersonDAOImpl">
+		<property name="sessionFactory" ref="hibernate4AnnotatedSessionFactory" />
+	</bean>
+	<bean id="editDAO" class="exp.java.bank.dao.EditDetailsDAOImpl">
+		<property name="sessionFactory" ref="hibernate4AnnotatedSessionFactory" />
+	</bean>
+	<bean id="transferDAO" class="exp.java.bank.dao.TransferDAOImpl">
 		<property name="sessionFactory" ref="hibernate4AnnotatedSessionFactory" />
 	</bean>
 </beans>
